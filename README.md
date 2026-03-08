@@ -3,7 +3,7 @@
 Personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## Live Site
-[View Portfolio](https://your-netlify-url.netlify.app)
+[View Portfolio](https://azam-dev.netlify.app/)
 
 ## Built With
 - HTML5
