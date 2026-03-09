@@ -753,7 +753,7 @@ nav a {
 }
 
 
-/* Media Queries  */
+/* Media Queries */
 @media(max-width: 1024px) {
   .hero-section { height: auto; padding-block: var(--space-16); }
   .hero__container { gap: var(--space-12); }
@@ -781,8 +781,6 @@ nav a {
     .nav__links i {
         font-size: 2rem;
     }
-
-
   .container {
     padding-left: var(--space-6);
     padding-right: var(--space-6);
